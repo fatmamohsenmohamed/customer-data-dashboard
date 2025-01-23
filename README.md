@@ -30,7 +30,7 @@ To view or interact with the dashboard:
 - **Dataset:** The dataset includes information on customer demographics, purchase details, and churn status.
 
 ## Screenshots
-![Customer Data Dashboard](https://github.com/user-attachments/files/example-dashboard.png)
+![Customer Data Dashboard](![churnedd](https://github.com/user-attachments/assets/a997ead6-aaa5-4b00-8293-5040c9de0a0e)
 
 ## Contributing
 - Contributions are welcome! Fork the repository and submit a pull request with your improvements.
